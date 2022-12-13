@@ -10,7 +10,7 @@ This script saves you alot of time by preconfiguring the whole webserver stack
 
 ## How to use the script?
 1. Make sure you are root! (by doing ``sudo su``)
-2. Download and run installer: `wget https://raw.githubusercontent.com/vmo64/lampserver-installer/main/install.sh` then `bash install.sh`
+2. Download and run installer: `wget https://raw.githubusercontent.com/syszelj9/lampserver-installer/main/install.sh` then `bash install.sh`
 3. Select the option you want from the list (entering an invalid option makes the script exit)
 4. Enter the information required
 3. The option you have selected is installed
